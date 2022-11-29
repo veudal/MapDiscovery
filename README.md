@@ -1,6 +1,18 @@
 # MapDiscovery
 Discover a random generated terrain while walking through with W,A,S,D in a console
 
+# Features
+
+- Colored terrain
+- Support to move by scrolling in the direction
+- Dimensions can be entered by the user
+- 'R' will reset the program
+- Player is highlighted
+
+# NOTE
+
+DOES NOT WORK PROPERLY IN TERMINAL ONLY SUCESSFULLY TESTED IN COMMAND PROMPT!
+
 # Images
 
 ## Example of undiscoverd map (at the beginning)
